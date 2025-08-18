@@ -1,7 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Katzura
+
+### 🧑‍💻 About Me
+
+-🌱 I’m currently learning Flask, JavaScript
+
+-📫 How to reach me: han486990@gmail.com
+
+-😄 Favourite anime: Gintama
+
+If you have faith , your dream will surely come true.
+
+[![Katzura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Power-Kid&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
-**Kat-zura/Kat-zura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Power-Kid/Power-Kid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
