@@ -2,7 +2,7 @@
 
 ### 🧑‍💻 About Me
 
--🌱 I’m currently learning Flask, JavaScript
+-🌱 I’m currently learning Transformer
 
 -📫 How to reach me: han486990@gmail.com
 
