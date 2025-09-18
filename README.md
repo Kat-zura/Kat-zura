@@ -10,7 +10,7 @@
 
 If you have faith , your dream will surely come true.
 
-[![Katzura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kat-zura&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://vercel-instance-olive.vercel.app/api?username=Kat-zura&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
